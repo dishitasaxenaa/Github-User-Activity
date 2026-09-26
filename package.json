@@ -1,0 +1,15 @@
+{
+  "name": "backend_practice",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "github_user_activity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "github-activity": "./github_user_activity.js"
+  }
+}
